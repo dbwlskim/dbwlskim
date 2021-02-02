@@ -27,7 +27,4 @@
 <h3 align="center"> 📷 SNS 📷 </h3>
 <p align="center">
   <a href="https://www.instagram.com/y00__zin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/y00__zin/"/></a>
-  <a href="mailto:dbwls0508@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-
-square&logo=Gmail&logoColor=white&link=dbwls0508@naver.com"/></a>
-</p>
 <br>
