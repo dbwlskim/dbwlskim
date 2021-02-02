@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=Nextjs&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Vuejs-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 </p>
 <br><br>
