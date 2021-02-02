@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Vuejs-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=vsCode&logoColor=white"/></a>
 </p>
 
 <br><br>
