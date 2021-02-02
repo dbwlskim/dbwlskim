@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Vuejs-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 </p>
 <br><br>
-<h3 align="center"> 🍒 Me 🍒 </h3>
+<h3 align="center"> 📷 SNS 📷 </h3>
 <p align="center">
   <a href="https://www.instagram.com/y00_zin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/y00_zin/"/></a>
   <a href="mailto:dbwls0508@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-
