@@ -23,5 +23,14 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Vuejs-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 </p>
-
 <br><br>
+<h3 align="center"> 🍒 Me 🍒 </h3>
+<p align="center">
+  <a href="https://www.instagram.com/y00_zin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/y00_zin/"/></a>
+  <a href="mailto:dbwls0508@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-
+square&logo=Gmail&logoColor=white&link=dbwls0508@naver.com"/></a>
+</p>
+<br>
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwookyoungkim&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+</p>
